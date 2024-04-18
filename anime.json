@@ -1,0 +1,153 @@
+[
+    {
+        "name": "Naruto",
+        "mal": 8.3,
+        "running": "2002-2007",
+        "sposter": "https://m.media-amazon.com/images/M/MV5BZmQ5NGFiNWEtMmMyMC00MDdiLTg4YjktOGY5Yzc2MDUxMTE1XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_FMjpg_UX1000_.jpg",
+        "bposter": "https://wallpapers.com/images/featured/naruto-poster-68amfejo0hg34i2t.jpg",
+        "genre": "Action, Adventure",
+        "type": "anime",
+        "url": "naruto.html"
+    },
+    {
+        "name": "Jujutsu Kaisen",
+        "mal": 8.6,
+        "running": "2020 - ",
+        "sposter": "https://m.media-amazon.com/images/I/81s+jxE5KEL.jpg",
+        "bposter": "https://pbs.twimg.com/media/Fasz9CDXwAEbh6U.jpg:large",
+        "genre": "Action, Supernatural",
+        "type": "anime",
+        "url": "jujutsukaisen.html"
+    },
+    {
+        "name": "Kaiju No. 8",
+        "mal": 8.2,
+        "running": "2024",
+        "sposter": "https://m.media-amazon.com/images/M/MV5BMzUxOTBlNzMtYzAyZi00MDNhLWE3OGUtYWQ5MzQyZGE1OGYwXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg",
+        "bposter": "https://www.animenewsnetwork.com/hotlink/thumbnails/crop1200x630gFJ/cms/news.6/205496/kaiju-no-8.jpg",
+        "genre": "Action, Supernatural",
+        "type": "anime",
+        "url": "kaijuno.html"
+    },
+    {
+        "name": "Death Note",
+        "mal": 8.6,
+        "running": "2006-2007",
+        "sposter": "https://m.media-amazon.com/images/I/71GqUgwo-eL.jpg",
+        "bposter": "https://rukminim2.flixcart.com/image/850/1000/xif0q/poster/o/n/f/small-death-note-anime-poster-for-wall-decoratve-photo-poster-63-original-imagp4jygyr9hwhn.jpeg?q=90&crop=false",
+        "genre": "Supernatural, Psychological, Thriller",
+        "type": "anime",
+        "url": "deathnote.html"
+    },
+    {
+        "name": "Attack on Titan",
+        "mal": 8.9,
+        "running": "2013 - 2021",
+        "sposter": "https://cdn.myanimelist.net/images/anime/10/47347l.jpg",
+        "bposter": "https://qph.cf2.quoracdn.net/main-qimg-a69c3be497f9f7ccd92b42ca31913645-pjlq",
+        "genre": "Action, Drama, Fantasy",
+        "type": "anime",
+        "url": "attackontitan.html"
+    },
+    {
+        "name": "My Hero Academia",
+        "mal": 8.4,
+        "running": "2016 - ",
+        "sposter": "https://cdn.myanimelist.net/images/anime/10/78745.jpg",
+        "bposter": "https://static.posters.cz/image/350/posters/my-hero-academia-hero-version-i122329.jpg",
+        "genre": "Action, Comedy, Superhero",
+        "type": "anime",
+        "url": "myheroacademia.html"
+    },
+    {
+        "name": "Demon Slayer: Kimetsu no Yaiba",
+        "mal": 8.7,
+        "running": "2019 - ",
+        "sposter": "https://cdn.myanimelist.net/images/anime/1286/99889.jpg",
+        "bposter": "https://hips.hearstapps.com/vidthumb/images/demon-slayer-kimetsu-no-yaiba-1621950955.jpg?crop=0.8436911487758946xw:1xh;center,top",
+        "genre": "Action, Supernatural",
+        "type": "anime",
+        "url": "demonslayer.html"
+    },
+    {
+        "name": "One Piece",
+        "mal": 8.7,
+        "running": "1999 - ",
+        "sposter": "https://cdn.myanimelist.net/images/anime/6/73245.jpg",
+        "bposter": "https://cdn.vox-cdn.com/thumbor/Eh75NnEzIcm_8RZ0xkWl5LwLFYI=/0x0:1920x960/fit-in/1200x600/cdn.vox-cdn.com/uploads/chorus_asset/file/25132508/one_piece_luffy_new_season.jpg",
+        "genre": "Action, Adventure, Comedy",
+        "type": "anime",
+        "url": "onepiece.html"
+    },
+    {
+        "name": "Dragon Ball Z",
+        "mal": 8.1,
+        "running": "1989-1996",
+        "sposter": "https://cdn.myanimelist.net/images/anime/1277/142022.jpg",
+        "bposter": "https://rukminim2.flixcart.com/image/850/1000/xif0q/poster/m/k/o/medium-dragon-ball-z-vegeta-tom-skender-long-hair-looking-at-v-original-imagh8jg8jct6dnh.jpeg?q=90&crop=false",
+        "genre": "Action, Adventure, Martial Arts",
+        "type": "anime",
+        "url": "dragonballz.html"
+    },
+    {
+        "name": "Tokyo Ghoul",
+        "mal": 7.9,
+        "running": "2014-2018",
+        "sposter": "https://cdn.myanimelist.net/images/anime/1498/134443.jpg",
+        "bposter": "https://weare.wcc.nsw.edu.au/wp-content/uploads/2022/11/Tokyo-Ghoul.jpg",
+        "genre": "Action, Horror, Psychological",
+        "type": "anime",
+        "url": "tokyoghoul.html"
+    },
+    {
+        "name": "Fullmetal Alchemist: Brotherhood",
+        "mal": 9.2,
+        "running": "2009-2010",
+        "sposter": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg",
+        "bposter": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/133793cf-116c-4ea5-a30f-20e3dc430d17/d983xt1-e7cd3093-7281-4d66-93ed-18e3f93809bd.png/v1/fill/w_1024,h_576,q_80,strp/fullmetal_alchemist_brotherhood_wallpaper_by_manyueru_d983xt1-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvMTMzNzkzY2YtMTE2Yy00ZWE1LWEzMGYtMjBlM2RjNDMwZDE3XC9kOTgzeHQxLWU3Y2QzMDkzLTcyODEtNGQ2Ni05M2VkLTE4ZTNmOTM4MDliZC5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.oTSIW-lLhQzg9AMpwpPjUXAi4cQ0aAIcqGbC-PyAeLE",
+        "genre": "Action, Adventure, Drama",
+        "type": "anime",
+        "url": "fullmetalalchemist.html"
+    },
+    {
+            "name": "Sword Art Online",
+            "mal": 7.6,
+            "running": "2012 - ",
+            "sposter": "https://cdn.myanimelist.net/images/anime/11/39717.jpg",
+            "bposter": "https://c4.wallpaperflare.com/wallpaper/90/7/766/yuuki-asuna-sword-art-online-profile-view-long-hair-wallpaper-preview.jpg",
+            "genre": "Action, Adventure, Fantasy, Romance",
+            "type": "anime",
+            "url": "swordartonline.html"
+        },
+        {
+            "name": "Hunter x Hunter (2011)",
+            "mal": 9.1,
+            "running": "2011-2014",
+            "sposter": "https://cdn.myanimelist.net/images/anime/11/33657.jpg",
+            "bposter": "https://i.pinimg.com/736x/a7/6c/36/a76c362e87942677e40bcaf65cd3fed5.jpg",
+            "genre": "Action, Adventure, Fantasy",
+            "type": "anime",
+            "url": "hunterxhunter.html"
+        },
+        {
+            "name": "One Punch Man",
+            "mal": 8.5,
+            "running": "2015-",
+            "sposter": "https://cdn.myanimelist.net/images/anime/12/76049.jpg",
+            "bposter": "https://staticg.sportskeeda.com/editor/2023/05/2b43c-16838955786784-1920.jpg",
+            "genre": "Action, Comedy, Parody, Superhero",
+            "type": "anime",
+            "url": "onepunchman.html"
+        },
+        {
+            "name": "Dragon Ball Super",
+            "mal": 7.7,
+            "running": "2015-2018",
+            "sposter": "https://m.media-amazon.com/images/M/MV5BY2I2MzI1ODYtMWRlOS00MzdhLWEyOWEtYWJhNmFiZTIxMGJhXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+            "bposter": "https://wallpapers.com/images/hd/dragon-ball-super-goku-kbejdsutbmi0jhk5.jpg",
+            "genre": "Action, Adventure, Martial Arts, Supernatural",
+            "type": "anime",
+            "url": "dragonballsuper.html"
+        }
+        
+]
