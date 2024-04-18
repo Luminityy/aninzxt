@@ -17,10 +17,10 @@ body {
 
 header {
   position: relative;
-  width: 80%;
-  height: 90%;
+  width: 100%;
+  height: 100%;
   /*border: 1px solid #fff;*/
-  border-radius: 20px;
+  border-radius: 0px;
   overflow: hidden;
   box-shadow: 0px 10px 25px -8px #000;
 }
@@ -320,7 +320,8 @@ header section .cards {
   margin-top: -7px;
   display: flex;
   align-items: center;
-  overflow-y: auto;
+  overflow-x: auto;
+  scroll-behavior: smooth;
 }
 
 header section .cards::-webkit-scrollbar {
@@ -335,7 +336,7 @@ header section .cards .card {
   border-radius: 8px;
   margin-right: 10px;
   background: #000;
-  transition: .3s linear;
+  transition: .5s linear;
 }
 
 header section .cards .card .poster {
@@ -360,7 +361,6 @@ header section .cards .card .rest_card {
   z-index: 999999;
   opacity: 0;
   transition: .5s linear;
-
 }
 
 header section .cards .card .rest_card img {
@@ -426,5 +426,37 @@ header section .cards .card .rest_card .cont .sub h3 i{
 
 header section .cards .card:hover .rest_card{
   opacity: 1;
+  
+}
 
+header section .bi-caret-left-fill , .bi-caret-right-fill {
+  position: absolute;
+  top: 50%;
+  left: 3%;
+  width: 25px;
+  height: 25px;
+  background: rgb(255, 255, 255, .3);
+  color: #fff;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  border-radius: 50%;
+  font-size: 12px;
+  cursor: pointer;
+  transition: .2s linear;
+  z-index: 99999999999;
+  opacity: 0;
+}
+
+header section .bi-caret-right-fill {
+  left: unset;
+  right: 3%;
+}
+
+header section:hover .bi-caret-right-fill {
+  opacity: 1;
+}
+
+header section:hover .bi-caret-left-fill {
+  opacity: 1;
 }
