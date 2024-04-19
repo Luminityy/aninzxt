@@ -52,7 +52,7 @@ left_btn.addEventListener('click', ()=> {
                 <p>${genre}, ${running},<span>MAL</span><i class="bi bi-star-fill">${mal}</i></p>
             </div>
         `
-        search.appendChild(card) // Append the card element, not the string 'card'
+        search.appendChild(card)
     });
     
     search_input.addEventListener('keyup', () => {
