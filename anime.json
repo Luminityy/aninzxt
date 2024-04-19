@@ -6,7 +6,8 @@
         "sposter": "https://cdn.myanimelist.net/images/anime/1801/142390.jpg",
         "bposter": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/04/sung-jinwoo-solo-leveling-poster-easter-egg-solo-leveling-episode-12.jpg",
         "genre": "Action, Adventure, Fantasy",
-        "type": "manhwa",
+        "type": "anime",
+        "status" :"hot",
         "url": "sololeveling.html",
         "desc": "Solo Leveling follows the story of Sung Jin-Woo, a weak and unassuming hunter who is given the opportunity to become a 'player' in a mysterious game-like world. As a player, he gains the ability to level up and acquire new skills, but he soon realizes that he is the only one who can see the system and the only one who can level up. Sung Jin-Woo must use his newfound powers to survive in a world where hunters are hunted and monsters roam free."
     },
@@ -18,6 +19,7 @@
         "bposter": "https://wallpapers.com/images/featured/naruto-poster-68amfejo0hg34i2t.jpg",
         "genre": "Action, Adventure",
         "type": "anime",
+        "status" :"hot",
         "url": "naruto.html",
         "desc": "Naruto Uzumaki, a young ninja, dreams of becoming the Hokage, the leader of his village. With his friends Sakura and Sasuke, he embarks on a journey to become stronger and protect his village from threats."
     },
@@ -29,6 +31,7 @@
         "bposter": "https://pbs.twimg.com/media/Fasz9CDXwAEbh6U.jpg:large",
         "genre": "Action, Supernatural",
         "type": "anime",
+        "status" :"hot",
         "url": "jujutsukaisen.html",
         "desc": "Yuji Itadori, a high school student, swallows a cursed object to protect his friends, becoming the host of a powerful curse. He joins the Jujutsu Sorcerers to learn how to control his newfound powers and fight against evil forces."
     },
@@ -40,6 +43,7 @@
         "bposter": "https://rukminim2.flixcart.com/image/850/1000/xif0q/poster/o/n/f/small-death-note-anime-poster-for-wall-decoratve-photo-poster-63-original-imagp4jygyr9hwhn.jpeg?q=90&crop=false",
         "genre": "Supernatural, Psychological Thriller",
         "type": "anime",
+        "status" :"hot",
         "url": "deathnote.html",
         "desc": "Light Yagami, a high school student, discovers a notebook that can kill anyone whose name is written in it. He uses it to create a utopian society without crime, but a genius detective named L is determined to catch him."
     },
@@ -51,6 +55,7 @@
         "bposter": "https://qph.cf2.quoracdn.net/main-qimg-a69c3be497f9f7ccd92b42ca31913645-pjlq",
         "genre": "Action, Drama, Fantasy",
         "type": "anime",
+        "status" :"hot",
         "url": "pages/attackontitan.html",
         "desc": "In a world where humans are on the brink of extinction, Eren Yeager and his friends Mikasa and Armin join the Scout Regiment to fight against the Titans, giant humanoidcreatures that devour humans."
     },
@@ -73,6 +78,7 @@
         "bposter": "https://www.hindustantimes.com/ht-img/img/2024/02/01/550x309/demon_slayer_season_3_release_1681007034048_1706805706378.jpg",
         "genre": "Action, Supernatural",
         "type": "anime",
+        "status" :"hot",
         "url": "demonslayer.html",
         "desc": "Tanjiro Kamado, a young boy, becomes a demon slayer after his family is killed by demons and his sister Nezuko is turned into a demon. He embarks on a journey to find a cure for Nezuko and avenge his family."
     },
